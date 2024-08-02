@@ -9,6 +9,9 @@ I have too many aliases.
 
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,python,ts,nodejs,bun,sqlite,mongodb,bash,linux)](https://skillicons.dev)
 
----
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursedboat&layout=compact&theme=dark)
+
+---
+### last played song
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g2lqgpmd6ffpfgsm1nv0y3dle&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=g2lqgpmd6ffpfgsm1nv0y3dle&redirect=true)
