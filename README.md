@@ -6,7 +6,7 @@ Hey, I'm Jamie, also known as `snthe`, `sn7he` & `cursedboat` <br />
 I have too many aliases.
 
 # Languages & Tools
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26582%26project%3D%26in=0)](https://codetime.dev)
+[![wakatime](https://wakatime.com/badge/user/39b84677-b2b8-404d-8185-3cec87071def.svg)](https://wakatime.com/@cursedboat)
 
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet,python,ts,nodejs,bun,express,sqlite,mongodb,bash,zsh)](https://skillicons.dev)
 
