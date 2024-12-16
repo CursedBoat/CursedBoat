@@ -15,8 +15,8 @@ I have too many aliases.
 # OS & Specs
 
 [![os](https://skillicons.dev/icons?i=windows,arch,ubuntu)](https://skillicons.dev)
-- `CPU`: Intel Core i3 6098p
-- `GPU`: AMD RX580 2048SP
+- `CPU`: AMD Ryzen 5 5600
+- `GPU`: AMD RX 580 2048SP
 - `RAM`: 8x2GB DDR4
 
 ---
