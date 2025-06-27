@@ -6,8 +6,6 @@ Hey, I'm Jamie, also known as `snthe`, `sn7he` & `cursedboat` <br />
 I have too many aliases.
 
 # Languages & Tools
-[![wakatime](https://wakatime.com/badge/user/39b84677-b2b8-404d-8185-3cec87071def.svg)](https://wakatime.com/@cursedboat)
-
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet,python,ts,nodejs,bun,express,sqlite,mongodb,bash,zsh)](https://skillicons.dev)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursedboat&layout=compact&theme=dark)
