@@ -2,7 +2,7 @@
 
 
 
-Hey, I'm Jamie, also known as `snthe`, `sn7he` & `cursedboat` <br />
+Hey, I'm Jamie, also known as `snthe`, `sn7he`, `eyevale` & `cursedboat` <br />
 I have too many aliases.
 
 # Languages & Tools
